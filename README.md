@@ -13,31 +13,31 @@ Template Base for Typescript Applications
 # Running
 
 ## Clone repository
-```bash
-git clone https://github.com/oRafael07/template-typescript-app.git
+```
+$ git clone https://github.com/oRafael07/template-typescript-app.git
 ```
 
 ## Install Dependencies
-```bash
-npm install
+```
+$ npm install
 ```
 
 ## Scripts
 
 ### run develop mode
-```bash
-npm run dev
+```
+$ npm run dev
 ```
 ### build application
-```bash
-npm run build
+```
+$ npm run build
 ```
 ### run production mode
-```bash
-npm run start
+```
+$ npm run start
 ```
 ### run lint fixes
-```bash
-npm run lint
+```
+$ npm run lint
 ```
 
